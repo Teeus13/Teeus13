@@ -7,15 +7,20 @@ Estou construindo minha base em programação, orientação a objetos, banco de 
 
 ---
 
-### 🚀 Tecnologias e Estudos
+### 🚀 Tecnologias e Ferramentas
 
-[Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-[POO](https://img.shields.io/badge/POO-007396?style=for-the-badge&logo=java&logoColor=white)
-[Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-[PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-[SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-[Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-[GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+#### Back-end
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![POO](https://img.shields.io/badge/POO-007396?style=for-the-badge&logo=java&logoColor=white)
+
+#### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -43,5 +48,7 @@ Neste perfil, compartilho meus projetos de estudo, exercícios práticos e aplic
 
 ### 📊 Estatísticas do GitHub
 
-[Estatísticas](https://github-readme-stats.vercel.app/api?username=Teeus13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-[Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Teeus13&layout=compact&langs_count=7&theme=tokyonight)
+![Estatisticas](https://github-readme-stats.vercel.app/api?username=Teeus13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Teeus13&layout=compact&langs_count=7&theme=tokyonight)
+
+![Visitas](https://komarev.com/ghpvc/?username=Teeus13&color=0e75b6&style=flat)
