@@ -17,7 +17,6 @@ Estou construindo minha base em programação, orientação a objetos, banco de 
 * Desenvolvimento de APIs REST com Spring Boot
 * Persistência de dados com Spring Data JPA
 * Autenticação e autorização com Spring Security
-* Boas práticas de programação
 * Organização e arquitetura de projetos Back-end
 
 🎯 Objetivo profissional
